@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**avnaygandhi/avnaygandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Avnay
 
-Here are some ideas to get you started:
+### 🇸🇬 Data Science & Fintech Aspirant | 10 Years in Singapore Education
+I am a technical student specializing in **Applied Computing** and **Predictive Analytics**. With a strong foundation built through 10 years of schooling in Singapore and the **IAL CIE Computer Science** curriculum, I thrive in project-based environments where code meets real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Focus
+* **Primary Language:** Python (Pandas, Scikit-Learn, NumPy, Matplotlib)
+* **Computer Science Foundations:** Mastered Data Structures, Algorithms, and OOP through Paper 4 (IAL CIE).
+* **Interests:** Financial Technology (Fintech), Machine Learning, and Algorithmic Trading.
+
+---
+
+## 🛠️ Featured Projects
+
+### [Fintech-Customer-Spending-Predictor](https://github.com/avnaygandhi/Fintech-Customer-Spending-Predictor)
+*Developed a regression model to analyze and predict consumer liquidity and spending habits—a core skill for credit scoring and digital banking.*
+
+### [BulldozerPrice Prediction](https://github.com/avnaygandhi/BulldozerPrice)
+*A large-scale data analysis project focusing on feature engineering and predictive modeling for asset valuation.*
+
+### [Library of Algorithms & Data Structures](https://github.com/avnaygandhi/Library_of_Algorithms_and_Data_Structures)
+*A comprehensive collection of ADTs (Linked Lists, Trees, Sorting) implemented in Python, demonstrating a rigorous understanding of computational logic.*
+
+---
+
+## 📈 Stats & Education
+* **Current Focus:** Preparing for September 2026 / February 2027 Intakes.
+* **Academic Background:** IAL CIE A-Levels (Mathematics & Computer Science).
+* **Location:** Singapore (Resident for 10+ years).
+
+---
