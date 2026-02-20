@@ -10,7 +10,7 @@ I am a technical student specializing in **Applied Computing** and **Predictive 
 ## 🚀 Technical Focus
 * **Primary Language:** Python (Pandas, Scikit-Learn, NumPy, Matplotlib)
 * **Computer Science Foundations:** Mastered Data Structures, Algorithms, and OOP through Paper 4 (IAL CIE).
-* **Interests:** Financial Technology (Fintech), Machine Learning, and Algorithmic Trading.
+* **Interests:** Financial Technology (Fintech) and Machine Learning
 
 ---
 
