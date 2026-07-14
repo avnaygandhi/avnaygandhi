@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Avnay
 
-### 🇸🇬 Data Scienc | 10 Years in Singapore Education
+### 🇸🇬 Data Science | 10 Years in Singapore Education
 I am a technical student specializing in **Applied Computing**. With a strong foundation built through 10 years of schooling in Singapore and the **IAL CIE Computer Science** curriculum, I thrive in project-based environments where code meets real-world problem solving.
 
 ---
