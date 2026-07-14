@@ -8,10 +8,17 @@ I am a technical student specializing in **Applied Computing** and **Predictive 
 ---
 
 ## 🚀 Technical Focus
-* **Primary Language:** Python (Pandas, Scikit-Learn, NumPy, Matplotlib)
-* **Computer Science Foundations:** Mastered Data Structures, Algorithms, and OOP through Paper 4 (IAL CIE).
-* **Interests:** Financial Technology (Fintech) and Machine Learning
+**Languages:** Python (Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib)
+**CS Foundations:** OOP, Data Structures, Algorithmic Complexity (Big O)
+**Focus Areas:** Deep Learning (Computer Vision), Descriptive & Inferential Statistics
+**Next Milestone:** Starting my Bachelor of Computer Science and Information Science (Data Science major) at AUT!
 
+## 🚀 Active Project (What I'm Building Right Now)
+
+### 🌿 [PyTorch Plant Health Classifier](https://github.com/avnaygandhi/ai-plant-health-classifier/tree/main) `[Active Development 🛠️]`
+* **Goal:** A custom deep learning model (Convolutional Neural Network) built from scratch in PyTorch to classify crop and plant diseases from leaf images.
+* **Current Stage:** Successfully built the evaluation pipeline, achieved a baseline test accuracy of ~50% using `PlantDoc`/`Leafsnap` datasets, and currently optimizing the model architecture (adding non-linear layers like ReLU) to boost accuracy.
+* **Tech Stack:** Python, PyTorch, Jupyter Notebooks, Computer Vision.
 ---
 
 ## 🛠️ Featured Projects
@@ -28,8 +35,7 @@ I am a technical student specializing in **Applied Computing** and **Predictive 
 ---
 
 ## 📈 Stats & Education
-* **Current Focus:** Preparing for September 2026 / February 2027 Intakes.
+* **Current Focus:** Preparing for the February 2027 university intake
 * **Academic Background:** IAL CIE A-Levels (Mathematics & Computer Science).
 * **Location:** Singapore (Resident for 10+ years).
-
 ---
