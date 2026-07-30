@@ -17,8 +17,8 @@ I am a technical student specializing in **Applied Computing**. With a strong fo
 
 ### 🌿 [PyTorch Plant Health Classifier](https://github.com/avnaygandhi/ai-plant-health-classifier/tree/main) `[Active Development 🛠️]`
 * **Goal:** A custom deep learning model (Convolutional Neural Network) built from scratch in PyTorch to classify crop and plant diseases from leaf images.
-* **Current Stage:** Successfully built the evaluation pipeline, achieved a baseline test accuracy of ~50% using `PlantDoc`/`Leafsnap` datasets, and currently optimizing the model architecture (adding non-linear layers like ReLU) to boost accuracy.
-* **Tech Stack:** Python, PyTorch, Jupyter Notebooks, Computer Vision.
+* **Current Stage:** Successfully built the local end-to-end pipeline (FastAPI + Streamlit UI) and fully containerized the application with Docker for seamless cross-platform execution and future cloud deployment. Achieved an initial baseline test accuracy using the `PlantDoc` and `Leafsnap` datasets, and currently scaling up the model architecture (adding deep residual/convolutional layers and non-linearities) to significantly improve multi-class health classification accuracy.
+* **Tech Stack:** Python, PyTorch, Jupyter Notebooks,FastAPI, Streamlit, Docker, OpenCV, Computer Vision.
 ---
 
 ## 🛠️ Featured Projects
