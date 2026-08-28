@@ -2,40 +2,41 @@
 
 # 👋 Hi, I'm Avnay
 
-### 🇸🇬 Data Science | 10 Years in Singapore Education
-I am a technical student specializing in **Applied Computing**. With a strong foundation built through 10 years of schooling in Singapore and the **IAL CIE Computer Science** curriculum, I thrive in project-based environments where code meets real-world problem solving.
+### 🇸🇬 Applied Computing & AI | Singapore
+I am a technical student specializing in **Applied Computing** and machine learning applications. With a foundation built through 10 years of education in Singapore and the **IAL CIE Computer Science** curriculum, I focus on building functional software, statistical modeling, and AI engineering workflows.
 
 ---
 
-## 🚀 Technical Focus
-**Languages:** Python (Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib)
-**CS Foundations:** OOP, Data Structures, Algorithmic Complexity (Big O)
-**Focus Areas:** Deep Learning (Computer Vision), Descriptive & Inferential Statistics
-**Next Milestone:** Starting my Bachelor of Computer Science and Information Science (Data Science major) at AUT!
+## 🚀 Technical Stack
+* **Languages & Core:** Python (Pandas, NumPy, Scikit-Learn, PyTorch, OpenCV)
+* **AI & Engineering Tools:** Claude Code, Gemini , FastAPI, Docker, Streamlit, Git
+* **Cloud & Infrastructure:** AWS (S3, Foundational AI Services)
+* **CS Fundamentals:** Data Structures, Algorithms, Object-Oriented Programming (OOP)
+* **Next Milestone:** Starting my Bachelor of Computer Science and Information Science (Data Science major) at AUT in Febuary!
 
-## 🚀 Active Project (What I'm Building Right Now)
-
-### 🌿 [PyTorch Plant Health Classifier](https://github.com/avnaygandhi/ai-plant-health-classifier/tree/main) `[Active Development 🛠️]`
-* **Goal:** A custom deep learning model (Convolutional Neural Network) built from scratch in PyTorch to classify crop and plant diseases from leaf images.
-* **Current Stage:** Successfully built the local end-to-end pipeline (FastAPI + Streamlit UI) and fully containerized the application with Docker for seamless cross-platform execution and future cloud deployment. Achieved an initial baseline test accuracy using the `PlantDoc` and `Leafsnap` datasets, and currently scaling up the model architecture (adding deep residual/convolutional layers and non-linearities) to significantly improve multi-class health classification accuracy.
-* **Tech Stack:** Python, PyTorch, Jupyter Notebooks,FastAPI, Streamlit, Docker, OpenCV, Computer Vision.
 ---
 
 ## 🛠️ Featured Projects
 
-### [Fintech-Customer-Spending-Predictor](https://github.com/avnaygandhi/Fintech-Customer-Spending-Predictor)
-*Developed a regression model to analyze and predict consumer liquidity and spending habits—a core skill for credit scoring and digital banking.*
+### 🌿 [PyTorch Plant Health Classifier](https://github.com/avnaygandhi/ai-plant-health-classifier/tree/main) `[Completed 🟢]`
+* **Overview:** Designed and trained a PyTorch Convolutional Neural Network (CNN) to detect plant leaf diseases and distinguish between real and artificial plants.
+* **Architecture:** Containerized via **Docker** with a **FastAPI** backend and interactive **Streamlit** frontend. Model checkpoints are hosted securely using **Amazon S3**.
+* **Tech:** Python, PyTorch, AWS S3, FastAPI, Streamlit, Docker, OpenCV.
 
-### [BulldozerPrice Prediction](https://github.com/avnaygandhi/BulldozerPrice)
-*A large-scale data analysis project focusing on feature engineering and predictive modeling for asset valuation.*
+### 📄 Document Intelligence & Audio Transcription `[Active Development 🔒]`
+* **Overview:** Developing enterprise utility pipelines focused on OCR document scanning for automated bill processing and audio transcription workflows for maritime bridge communications.
+* **Architecture:** Implemented modular Python parsing scripts using prompt engineering and vision-language agents to convert unstructured media into structured data payloads.
+* **Tech:** Python, Computer Vision / OCR, APIs, Audio Processing.
 
-### [Library of Algorithms & Data Structures](https://github.com/avnaygandhi/Library_of_Algorithms_and_Data_Structures)
-*A comprehensive collection of ADTs (Linked Lists, Trees, Sorting) implemented in Python, demonstrating a rigorous understanding of computational logic.*
+### 📈 [Fintech Customer Spending Predictor](https://github.com/avnaygandhi/Fintech-Customer-Spending-Predictor)
+* Engineered regression models in Python to evaluate and forecast consumer liquidity patterns for credit risk scoring.
+
+### 🏗️ [Bulldozer Price Prediction](https://github.com/avnaygandhi/BulldozerPrice)
+* Implemented time-series feature engineering and tree-based regression models for heavy machinery asset valuation.
 
 ---
 
-## 📈 Stats & Education
-* **Current Focus:** Preparing for the February 2027 university intake
-* **Academic Background:** IAL CIE A-Levels (Mathematics & Computer Science).
-* **Location:** Singapore (Resident for 10+ years).
----
+## 🎓 Education & Credentials
+* **Upcoming Degree:** Bachelor of Computer & Information Sciences (AUT, Feb 2027 Intake)
+* **Academic Background:** IAL CIE A-Levels (Mathematics & Computer Science)
+* **Certifications:** AWS Artificial Intelligence Practitioner (Skill Builder Path), ZTM Statistics with Python,ZTM Complete A.I. & Machine Learning, Data Science Bootcamp 
