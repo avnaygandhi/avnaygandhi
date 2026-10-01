@@ -36,6 +36,5 @@ I am a technical student specializing in **Applied Computing** and machine learn
 ---
 
 ## 🎓 Education & Credentials
-* **Upcoming Degree:** Bachelor of Computer & Information Sciences (AUT, Feb 2027 Intake)
 * **Academic Background:** IAL CIE A-Levels (Mathematics & Computer Science)
 * **Certifications:** AWS Artificial Intelligence Practitioner (Skill Builder Path), ZTM Statistics with Python,ZTM Complete A.I. & Machine Learning, Data Science Bootcamp 
