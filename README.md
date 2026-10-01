@@ -31,8 +31,7 @@ I am a technical student specializing in **Applied Computing** and machine learn
 ### 📈 [Fintech Customer Spending Predictor](https://github.com/avnaygandhi/Fintech-Customer-Spending-Predictor)
 * Engineered regression models in Python to evaluate and forecast consumer liquidity patterns for credit risk scoring.
 
-### 🏗️ [Bulldozer Price Prediction](https://github.com/avnaygandhi/BulldozerPrice)
-* Implemented time-series feature engineering and tree-based regression models for heavy machinery asset valuation.
+
 
 ---
 
